@@ -1,0 +1,22 @@
+{
+  "name": "uxy",
+  "version": "0.0.1",
+  "description": "A file rewrite tool to duplicate a directory so url within files point to a correct url.",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colohr/uxy.git"
+  },
+  "keywords": [],
+  "author": "colohr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colohr/bxy/issues"
+  },
+  "homepage": "https://github.com/colohr/uxy#readme",
+  "dependencies": {
+    "fxy": "^0.1.0",
+    "lodash.replace": "^4.1.4"
+  },
+  "devDependencies": {}
+}

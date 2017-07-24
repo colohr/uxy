@@ -1,6 +1,6 @@
 {
   "name": "uxy",
-  "version": "0.0.1",
+  "version": "0.0.15",
   "description": "A file rewrite tool to duplicate a directory so url within files point to a correct url.",
   "main": "./index.js",
   "repository": {
@@ -15,7 +15,7 @@
   },
   "homepage": "https://github.com/colohr/uxy#readme",
   "dependencies": {
-    "fxy": "^0.1.0",
+    "fxy": "^0.1.5",
     "lodash.replace": "^4.1.4"
   },
   "devDependencies": {}

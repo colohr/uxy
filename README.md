@@ -1,7 +1,9 @@
-UXY
+uxy
 =============
+Pronunciation /yo͞o eks wī/ or uxy
 
-Install `uxy` 
+--
+Note: `uxy` is not finished & should not be used for your projects. 
 -------------
 ```
   npm uninstall uxy
